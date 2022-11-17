@@ -1,0 +1,13 @@
+button {
+  --size: calc(40px);
+
+  display: block;
+  width: auto;
+  height: 50px;
+  background: var(--qwik-light-blue);
+  cursor: pointer;
+  border-radius: 8px;
+  color: white;
+  border: none;
+  box-sizing: border-box;
+}
